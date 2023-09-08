@@ -20,3 +20,4 @@ python main.py
 
 ## 3. about china map version
 2022 years.
+![China Map](china_map.png)
