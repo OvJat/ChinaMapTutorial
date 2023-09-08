@@ -1,3 +1,4 @@
 china_map.png filter=lfs diff=lfs merge=lfs -text
 data/NaturalEarth/NE1_50M_SR_W.tif filter=lfs diff=lfs merge=lfs -text
 data/ChinaMap/china.shp filter=lfs diff=lfs merge=lfs -text
+china_map_style2.png filter=lfs diff=lfs merge=lfs -text
